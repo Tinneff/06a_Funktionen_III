@@ -1,3 +1,3 @@
 # 06_Funktionen_02
 
-Komplexübung Taschenrechner
+Komplexübung Taschenrechner mit vollständiger Lösung
